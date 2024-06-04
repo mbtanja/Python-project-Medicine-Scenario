@@ -5,11 +5,12 @@ Project Overview:
 
 Dr. Zeus has collected data from 1000 diabetic patients over a year, focusing on how they manage their condition. The dataset includes:
 
-Duration of diabetes ('Kolku dolgo e dijabeticar')
-Quarterly hemoglobin A1C levels ('Kolku mu e tromesechen (hemoglobin A1C) she4er')
-Medication type (insulin or tablets) ('Dali e na insulin ili na tabli?')
-Current blood glucose level ('Glukoza (momentalna) vo krv')
-Presence of diabetic retinopathy ('Dali ima dijabetesna retinopatija?')
+Duration of diabetes ('Kolku dolgo e dijabeticar')<br>
+Quarterly hemoglobin A1C levels ('Kolku mu e tromesechen (hemoglobin A1C) she4er')<br>
+Medication type (insulin or tablets) ('Dali e na insulin ili na tabli?')<br>
+Current blood glucose level ('Glukoza (momentalna) vo krv')<br>
+Presence of diabetic retinopathy ('Dali ima dijabetesna retinopatija?')<br>
+
 Tasks:
 
 Data Cleaning:
